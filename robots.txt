@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chrome-tool.github.io/sitemap.xml
